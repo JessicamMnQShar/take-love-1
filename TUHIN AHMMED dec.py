@@ -1,6 +1,4 @@
-# decoder by cobra linux command __Tools Owner Nahid Afridy
-# https://github.com/NAHID-AFRIDY/DECODER
-# Python 3.11 ___WhatsApp 01923092304
+
 
 W = '\033[97;1m'
 
